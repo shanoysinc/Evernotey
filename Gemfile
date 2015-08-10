@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'haml', '~> 4.0.7'
+gem 'simple_form', '~> 3.1.0'
+gem 'devise', '~> 3.5.2'
 
 gem 'rails', '4.2.3'
 gem 'sqlite3'
